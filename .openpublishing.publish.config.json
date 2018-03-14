@@ -3,7 +3,7 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "cognitive-toolkit-docs-python",
+      "docset_name": "e2eppe-cognitive-toolkit-docs-python",
       "build_source_folder": ".",
       "build_output_subfolder": "cognitive-toolkit-docs-python",
       "locale": "en-us",
